@@ -4,4 +4,4 @@ ignore: {}
 patch: {}
 exclude:
   global:
-    - src/check_exclude
+    - src/vendor
